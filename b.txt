@@ -1,0 +1,2 @@
+测试git commit -a -m "desc"  -a要指定单个文件吗  还是会将新的变化提交
+commit之后还需要git push origin master才能再GitHub上看见
